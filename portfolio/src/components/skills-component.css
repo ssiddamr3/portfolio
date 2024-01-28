@@ -1,0 +1,24 @@
+.skills-font {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+  }
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
+
+.google-fonts-side-headings{
+    font-family: 'Honk', system-ui;
+    font-family: 'Sixtyfour', sans-serif;
+    font-size:medium;
+    color: darkorange;
+}
+
+.heading-font{
+    font-family: 'Cinzel', serif;
+  }
+  

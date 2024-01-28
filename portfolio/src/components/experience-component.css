@@ -1,0 +1,25 @@
+.experience-font {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 23px;
+  }
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.heading-font{
+    font-family: 'Cinzel', serif;
+  }
+
+.cts-color{
+    color:#fc03d2
+}
+
+.exp-higlight{
+    color: darkorange;
+}
